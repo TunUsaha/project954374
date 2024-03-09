@@ -1,0 +1,7 @@
+{
+    "i18n-ally.localesPaths": [
+        "resources/lang",
+        "public/cb_asset/js/select2/i18n",
+        "public/cb_asset/adminlte/plugins/summernote/lang"
+    ]
+}
